@@ -292,6 +292,8 @@ body {
   border-color: var(--accent-green);
 }
 
+.navbar-monogram { font-size: 22px; line-height: 1; font-weight: 800; letter-spacing: -.06em; }
+
 .navbar-brand-text {
   display: flex;
   flex-direction: column;
